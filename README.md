@@ -2,7 +2,7 @@
 
 Code for the book [*Geoprocessing with Python*](http://manning.com/garrard/?a_aid=geopy&a_bid=c3bae5be).
 
-**Original code from Chris Garrard** 
+**Original code from Chris Garrard** RS/GIS Lab at Utah State University
 
 **IPython Notebook for the Chapter 3 - vector data ** with some additions and adaptations by Claude COULOMBE - PhD - Montréal
 
