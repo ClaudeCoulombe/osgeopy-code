@@ -4,7 +4,7 @@ Code for the book [*Geoprocessing with Python*](http://manning.com/garrard/?a_ai
 
 **Original code from Chris Garrard** - RS/GIS Lab at Utah State University
 
-**IPython Notebook for the Chapter 3 - vector data ** with some additions and adaptations by Claude COULOMBE - PhD - Montréal
+**IPython Notebook for the Chapter 3 - vector data** with some additions and adaptations by Claude COULOMBE - PhD - Montréal
 
 Corresponding data files can be found at <https://app.box.com/s/1cwdnolsmtf0s04o0hshbv4vxiuqcmi9> (it used to be on github, but the raster files were well past github's file size limit).
 
