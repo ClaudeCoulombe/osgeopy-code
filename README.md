@@ -2,7 +2,9 @@
 
 Code for the book [*Geoprocessing with Python*](http://manning.com/garrard/?a_aid=geopy&a_bid=c3bae5be).
 
-** IPython Notebook for the Chapter 3 ** with some additions and adaptations by Claude COULOMBE - PhD - Montréal
+**Original code from Chris Garrard** 
+
+**IPython Notebook for the Chapter 3** with some additions and adaptations by Claude COULOMBE - PhD - Montréal
 
 Corresponding data files can be found at <https://app.box.com/s/1cwdnolsmtf0s04o0hshbv4vxiuqcmi9> (it used to be on github, but the raster files were well past github's file size limit).
 
